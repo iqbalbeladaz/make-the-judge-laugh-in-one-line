@@ -6,9 +6,9 @@
 
 Entry for the make.fun bounty `u-email-baru-make-the-judge-laugh-in-one-line-791ccb21`
 ("Make the Judge Laugh in One Line", $2): one funny line, 200 characters
-or fewer, written to make the judge laugh — 145 of 200 characters.
+or fewer, written to make the judge laugh — 140 of 200 characters.
 
-> My toaster quit this morning — it said it was tired of being the only one in this house who ever finishes anything, and honestly, it has a point.
+> My toaster quit this morning — it said it was tired of being the only one in this house who finishes anything, and honestly, it has a point.
 
 ## Why it should win
 

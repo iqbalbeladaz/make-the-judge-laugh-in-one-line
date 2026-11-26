@@ -17,7 +17,7 @@ the same bytes. Standard library only, no network, no input.
 import os
 from pathlib import Path
 
-ENTRY = "My toaster quit this morning — it said it was tired of being the only one in this house who ever finishes anything, and honestly, it has a point."
+ENTRY = "My toaster quit this morning — it said it was tired of being the only one in this house who finishes anything, and honestly, it has a point."
 
 MAX_CHARS = 200
 
